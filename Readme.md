@@ -89,3 +89,5 @@ Equipo
 Diagrama:
 
 https://lucid.app/lucidchart/a0dfcaf9-91a4-4cdb-8667-5c3415ebaaf8/edit?viewport_loc=-1030%2C-489%2C3174%2C1742%2C0_0&invitationId=inv_74990cf1-6783-4ac5-8ce3-42e300aad260
+
+Dominio: https://proyecto2marianita.online/
